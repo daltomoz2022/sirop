@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347628815667",
+    "project_id": "sirop-7c398",
+    "storage_bucket": "sirop-7c398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347628815667:android:77bb200656bde3a87e6a46",
+        "android_client_info": {
+          "package_name": "com.damd.sirop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347628815667-nf8aaai6p4qik1mddr352c4g5acq9um5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKGebEtQdOSJCAr0ONL926Q96g2wWcLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347628815667-nf8aaai6p4qik1mddr352c4g5acq9um5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
